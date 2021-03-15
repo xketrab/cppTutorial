@@ -1,0 +1,10 @@
+INSTRUKCJA
+
+1. Pobierz plik main.cpp klikajac Code -> Download ZIP  na GitHubie
+2. Otwórz pobrany plik
+3. Na pulpicie(lub gdziekolwiek) stworz folder i przenies do niego plik main.cpp
+4. Trzymajac lewy Shift kliknij prawy przycisk myszy.
+5. Z okna dialogowego wybierz opcję "Otworz tutaj okno programu PowerSheel"
+6. Po owtwarciu małej konsoli wpisz polecenie: g++ main.cpp
+7. Poczekaj chwile, a nastepnie wpisz polecenie .\a.exe   (To polecenie bedziesz wpisywal za kazdym razem jak bedziesz chcial uruchomic program)
+8. Kieruj sie instrukcjami, ktore bede wysylane w konsoli.

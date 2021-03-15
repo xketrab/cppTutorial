@@ -1,2 +1,3 @@
-# cppTutorial
-C++ Tutorial
+# Program obliczajacy pole figur.
+
+
